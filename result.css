@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(110, 99, 99);
+    text-align: center;
+}
+#v{
+    border-radius: 30px;
+    height: 35px;
+    width: 270px;
+    font-size: large;
+    box-shadow: 5px 5px  8px rgb(59, 62, 59);
+}
+label{
+    font-size: 30px;
+}
+#k{
+    border-radius: 50px;
+    height: 40px;
+
+}
+#v:hover{
+    height: 50px;
+    width: 500px;
+}
+#k:hover{
+    height: 120px;
+    width: 120px;
+    border-radius: 100px;
+}
+h1{
+    color: rgb(35, 176, 19);
+    font-size: 80px;
+}
